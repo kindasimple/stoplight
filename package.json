@@ -1,0 +1,16 @@
+{
+  "name": "stoplight",
+  "version": "1.0.0",
+  "description": "A REST api for controlling the switches on a XYtronix temperature module to work with a stoplight",
+  "main": "index.js",
+  "scripts": {
+    "test": "node status.js"
+  },
+  "dependencies": {
+    "http": "0.0.0",
+    "log4js": "^0.6.22",
+    "restify": "^2.8.5"
+  },
+  "author": "Evan White",
+  "license": "ISC"
+}
