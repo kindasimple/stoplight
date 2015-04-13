@@ -1,0 +1,12 @@
+{
+    "predef": [ 
+	"require", 
+	"console",
+	"module",
+	"setTimeout",
+	"clearTimeout",
+	"setInterval"
+    ],
+    "asi": true,
+    "strict" :false 
+}
